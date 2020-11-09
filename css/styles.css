@@ -1,0 +1,99 @@
+body {
+    background-color: black;
+    overflow-x: hidden;
+    
+}
+
+a:link {
+    text-decoration: none;
+}
+a:active {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+
+
+.video-principal {
+       
+    margin-top: 50px;
+    
+    }
+
+div.imagem-challenge {
+    margin-top: 70px;
+    margin-right: 50px;
+}
+
+p {
+    color: white;
+}
+
+.lançamento {
+    margin-top: 100px;
+}
+
+.lançamento1 {
+    color: white;
+    margin-top: 40px;
+    margin-bottom: 25px;
+}
+
+.veja {
+    font-size: 23px;
+    margin-top: 70px;
+}
+
+p {
+    color: white;
+    text-decoration: none
+    
+}
+
+.espaçamento1 {
+    margin-top: -10px;
+    
+}
+
+.espaçamento2 {
+    margin-top: -10px;
+    font-size: 14px;
+    color: rgb(243, 239, 239);
+}
+
+link {
+    text-decoration: none;
+}
+
+.tituloproduto {
+    margin-top: 15px;
+    font-size: 16px;
+}
+
+.rodape {
+    background-color: white;
+    padding: 20px;
+    margin-top: 100px;
+}
+
+.rodapetexto {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.imagem {
+    margin-top: 30px;
+}
+
+h3 {
+    color: white;
+    margin-top: 50px;
+}
+
+.primeirafileira {
+    margin-top: 50px;
+}
